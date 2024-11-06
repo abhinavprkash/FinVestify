@@ -1,12 +1,25 @@
-# Stock Trading Web App Python Version
+# FinVestify
 
-Responsive webpage built using Flask and Vanilla JS that allows users to search for stocks using the Finnhub API and display the results on the search page. Additionally, the users can trade with virtual money and create a portfolio. Users can also favorite stock symbols to track their stock prices.
+FinVestify is developed with Android, React, Node.js, MongoDB, HTTPS, JWT, and WebSockets, is designed to deliver a secure, real-time trading experience for up to 4,800 concurrent users. It provides responsive web and mobile interfaces, allowing users to search for stocks, view detailed market data, trade with virtual currency, and build personalized portfolios
 
 ## Features
 
-- **Stock Search**: Users can search for stocks using the Finnhub API and display the results on the search page.
-- **Virtual Trading**: Users can trade with virtual money and manage their portfolio.
-- **Favorites**: Users can favorite stock symbols to track their stock prices.
+- 📈 **Real-Time Market Data**: Powered by Finnhub and Polygon.io APIs, providing live stock prices and market insights to keep users updated on the latest trends.
+- 🔐 **Secure Transactions**: Built on HTTPS and JWT for encrypted, secure transactions that protect user data and trading activities.
+- ⚡ **Low-Latency Updates**: Leveraging WebSockets, users receive real-time data with lightning-fast, millisecond-level retrieval speeds.
+- 🛠️ **Scalable Architecture**: Engineered to support 4,800+ concurrent users seamlessly, offering a responsive and smooth trading experience across devices.
+- 🔍 **Stock Search**: Users can search for any stock ticker using the Finnhub API, with results displayed instantly on a dynamic search page.
+- 💸 **Virtual Trading**: Trade in a realistic, risk-free environment with virtual currency, allowing users to experiment and manage their portfolio effortlessly.
+- ⭐ **Favorites**: Users can mark stock symbols as favorites to easily track prices and follow preferred stocks.
+
+## Technologies Used
+
+- 📱 **Frontend**: Android, React
+- 🖥️ **Backend**: Node.js
+- 💽 **Database**: MongoDB
+- 🔐 **Security**: HTTPS, JWT
+- ⚡ **Real-time Communication**: WebSockets
+- 🌐 **APIs**: Finnhub, Polygon.io
 
 ## Demo
 
