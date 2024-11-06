@@ -14,7 +14,7 @@ FinVestify is developed with Android, React, Node.js, MongoDB, HTTPS, JWT, and W
 
 ## Technologies Used
 
-- 📱 **Frontend**: Android, React
+- 📱 **Frontend**: Android, Angular
 - 🖥️ **Backend**: Node.js
 - 💽 **Database**: MongoDB
 - 🔐 **Security**: HTTPS, JWT
